@@ -19,3 +19,4 @@ What I’m looking for:
 - Top headline should be centered
 - Padding spaced evenly inside each div
 - Make all headers Arial
+- Make the middle-sized subhead a different color
